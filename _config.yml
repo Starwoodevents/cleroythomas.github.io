@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Charles L. Thomas
+title: ATX Crime Map
 subtitle: Portfolio and Blog
 description: >- # this means to ignore newlines until "baseurl:"
 author: Charles L. Thomas Jr.
@@ -52,7 +52,7 @@ slack_url:
 twitter_url: https://twitter.com/cleroythomas?lang=en
 
 # Google Analytics Tracking ID goes here:
-google_analytics: UA-115530885-1
+google_analytics: 
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
